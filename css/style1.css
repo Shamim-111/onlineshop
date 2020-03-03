@@ -1,0 +1,24 @@
+body{
+    margin-top: 80px;
+}
+.fbox{
+   text-align: center; 
+}
+.fbox span{
+    font-size: 60px;
+}
+
+.footer{
+    text-align: center;
+}
+.case1{
+    margin-top: 10px;
+}
+
+.inputbox
+{
+    height: 100%;
+    width: 100%;
+    padding: 5% 5%;
+    font-size: 15px;
+}
